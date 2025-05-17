@@ -4,7 +4,7 @@ An Aspiring Cybersecurity Professional bridging Risk Analysis, Secure Developmen
 
 **Contact:**
 * Email: hjones0973@gmail.com
-* Phone: (314) xxx-xxxx
+* Phone: email me for contact info
 * Location: Olivette, MO
 
 ## Summary
