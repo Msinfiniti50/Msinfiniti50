@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Tumisia (@Msinfiniti50)
+## 👋 Hi, I'm Tunisia (@Msinfiniti50)
 
 An Aspiring Cybersecurity Professional bridging Risk Analysis, Secure Development, and Threat Mitigation
 
