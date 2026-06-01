@@ -1,76 +1,119 @@
-## 👋 Hi, I'm Tunisia (@Msinfiniti50)
+👋 Hi, I'm Tunisia Johnson (@Msinfiniti50)
+Computer Science Student | Cybersecurity Enthusiast | Data Analyst Trainee | Problem Solver
 
-An Aspiring Cybersecurity Professional bridging Risk Analysis, Secure Development, and Threat Mitigation
+I'm currently pursuing my Bachelor's degree in Computer Science with an emphasis in Cybersecurity at the University of Missouri–St. Louis (UMSL). My goal is to build a career protecting systems, data, and people from evolving cyber threats while continuing to grow my skills in software development, security analysis, and risk management.
 
-**Contact:**
-* Email: hjones0973@gmail.com
-* Phone: email me for contact info
-* Location: Olivette, MO
+Before transitioning into tech, I spent more than 25 years in the transportation and logistics industry, including owning and operating a trucking company. That experience taught me leadership, problem-solving, risk assessment, and how to make critical decisions under pressure—skills that continue to serve me well in cybersecurity and technology.
 
-## Summary
+I'm currently completing a Data Analyst training program with Cigna Group, where I'm gaining hands-on experience working with data, reporting, analytics, and business processes while strengthening my technical and professional skills.
 
-Highly motivated aspiring cybersecurity professional leveraging a strong foundation in risk analysis, compliance, and secure web development to proactively defend digital landscapes. Passionate about dissecting threats, fortifying systems against vulnerabilities, and championing security best practices across technical and non-technical stakeholders. Proven ability to implement secure authentication protocols, safeguard sensitive data, and conduct thorough financial risk assessments, poised to contribute immediately to a dynamic cybersecurity team.
+💻 Technical Skills
+Cybersecurity
+Risk Analysis & Risk Management
+Security Awareness
+Threat Analysis
+Vulnerability Assessment
+Identity & Access Management (IAM)
+Authentication & Authorization
+Multi-Factor Authentication (MFA)
+Role-Based Access Control (RBAC)
+Networking & Security Tools
+Wireshark
+Nmap
+Burp Suite (Foundational Knowledge)
+Metasploit (Foundational Knowledge)
+Programming & Development
+Java
+Python
+JavaScript
+React
+Spring Boot
+SQL
+HTML/CSS
+Bash
+Databases
+MySQL
+SQL Database Design
+Database Security Concepts
+Operating Systems
+Linux
+Windows
+Tools & Platforms
+Git
+GitHub
+IntelliJ IDEA
+VS Code
+MySQL Workbench
+🚀 Featured Project
+Treasured Chest | LaunchCode Capstone Project
 
-## Cybersecurity Skills & Tools
+A full-stack digital scrapbook application built with React, Spring Boot, and MySQL.
 
-**Core:**
+Key Contributions:
 
-* Security Concepts: Risk Management, Vulnerability Assessment, Threat Analysis, Incident Response, Security Awareness Training
+Implemented secure user authentication and session management.
+Developed role-based access controls to manage user permissions.
+Designed and integrated database functionality for storing user-generated content.
+Collaborated within an Agile development team to build scalable application features.
+Applied secure coding practices and data protection principles throughout development.
+💼 Professional Experience
+Data Analyst Trainee | Cigna Group
 
-**Networking & Security Tools:**
+May 2026 – August 2026
 
-* Wireshark, Nmap, Metasploit (Basic Familiarity), Burp Suite (Basic Familiarity)
+Working with business and operational data to support decision-making.
+Learning data analysis, reporting, and enterprise business processes.
+Collaborating with professionals across multiple teams to solve real-world business challenges.
+Audit Analyst | Bank of America
 
-**Identity & Access Management (IAM):**
+June 2021 – September 2023
 
-* JWT (Implementation Experience), OAuth, Multi-Factor Authentication (MFA)
+Conducted risk reviews and compliance assessments.
+Analyzed large datasets to identify irregularities and potential risks.
+Supported financial reporting accuracy and internal control processes.
+Assisted with investigations involving operational and compliance concerns.
+Mortgage Specialist | U.S. Bank
 
-**Operating Systems:**
+January 2020 – May 2021
 
-* Linux (Command Line Proficiency), Windows Server
+Managed sensitive financial information while maintaining regulatory compliance.
+Worked closely with customers and lenders throughout the mortgage process.
+Supported data integrity and documentation accuracy.
+🎓 Education
+University of Missouri–St. Louis (UMSL)
 
-**Programming & Scripting:**
+Bachelor of Science in Computer Science
+Emphasis: Cybersecurity
+Expected Graduation: TBD
 
-* Python (Scripting for Automation), Java, Bash
+LaunchCode
 
-## Experience
+Web Development Program
+2024
 
-**Treasured Chest — LaunchCode Capstone Project** | January 2024 - August 2024 | Cybersecurity-Focused Web Application Development
+📚 Current Learning Goals
+Security+
+Secure Software Development
+Cloud Security
+Network Defense
+Penetration Testing Fundamentals
+Python Automation
+Threat Detection & Incident Response
+🌱 Interests
+Cybersecurity
+Software Development
+Data Analytics
+Technology
+Historic Preservation
+Home Renovation Projects
+Continuous Learning
+🤝 Let's Connect
 
-* Spearheaded the development of robust and secure authentication mechanisms utilizing JWT-based authentication and session management to protect user credentials and application access.
-* Implemented comprehensive data protection strategies for sensitive user information, ensuring adherence to security best practices and mitigating potential data breaches.
-* Architected and deployed role-based access control (RBAC) to enforce the principle of least privilege and prevent unauthorized access to critical application functionalities.
-* Leveraged a modern tech stack including React, Node.js, Express, SQL, and Tailwind CSS to build a secure and scalable web application.
+I'm always interested in connecting with fellow students, developers, cybersecurity professionals, and technology enthusiasts.
 
-**Audit Analyst — Bank of America** | June 2021 - September 2023 | Risk Analysis & Compliance
+📧 Email: hjones0973@gmail.com
 
-* Diligently conducted risk assessments across various financial processes to proactively identify potential vulnerabilities related to fraud, regulatory non-compliance, and data security.
-* Actively participated in data security reviews, meticulously ensuring that critical financial reports maintained the highest standards of security, integrity, and accuracy.
-* Skillfully analyzed high-volume financial transactions to detect anomalies and suspicious patterns indicative of emerging cyber threats, including phishing attempts, fraudulent activities, and potential data breaches.
-
-**Mortgage Specialist — US Bank** | January 2020 - May 2021 | Compliance & Data Integrity
-
-* Ensured strict compliance with key financial security regulations, including PCI DSS and SOC 2, safeguarding sensitive customer data during digital transactions.
-* Collaborated closely with lenders to proactively identify and mitigate potential risks associated with digital financial transactions, reinforcing data integrity and security protocols.
-
-## Education & Certifications
-
-* Bachelor’s Degree in Cybersecurity (In Progress)
-* CompTIA Security+ (Targeted Completion: May 2025) - Demonstrating foundational cybersecurity knowledge.
-* LaunchCode, Web Development - Acquired practical experience in secure coding principles and web application security. (2024)
-* Commercial Vehicle Training Association, Master Level Instructor Certification - Developed strong communication and training skills, valuable for security awareness initiatives.
-
-## Interests
-
-* Home Renovations/Preservation
-* Technology
-* Web Development
-
-## Collaboration
-
-I'm looking to collaborate on preservation projects and coding study groups in the St. Ann area of St. Louis, MO, in 2024.  Feel free to reach out!
-
-* Email: naturesmelanin@gmail.com
+Thanks for stopping by my GitHub!
 
 <!---
 Msinfiniti50/Msinfiniti50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
